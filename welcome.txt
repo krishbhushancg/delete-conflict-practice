@@ -1,1 +1,2 @@
 Welcome to day 13
+Welcome to Git class
